@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nemo 👋
 
-<!--
-**NemoCode-3011/NemoCode-3011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building clean and responsive web experiences.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Improving my React skills
+- Building real-world projects
+- Strengthening my JavaScript foundation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- React (learning)
+
+## 📌 Projects
+Check out my pinned repositories below 👇
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/temilade-adeniyi-vivian
