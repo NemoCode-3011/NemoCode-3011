@@ -11,7 +11,8 @@ Frontend Developer passionate about building clean and responsive web experience
 - HTML
 - CSS
 - JavaScript
-- React (learning)
+- React
+- Typescript
 
 ## 📌 Projects
 Check out my pinned repositories below 👇
