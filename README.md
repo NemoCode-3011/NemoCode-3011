@@ -1,27 +1,29 @@
 # Hi, I'm Nemo 👋
 
-Frontend Developer | Sociology graduate | Building toward Fullstack
+Frontend Developer building immersive, editorial-grade web experiences — currently interning at Fly Rank and building toward launching **Trilot Technologies**, my own digital agency.
 
-I come from sociology, moved through cybersecurity, and landed in 
-frontend development. My path wasn't straight, but every stop added 
-something.
+I come from sociology, moved through cybersecurity, and landed in frontend development. That path shows up in how I build: I care about narrative and craft as much as code.
 
 ## 🛠 Stack
-HTML · CSS · JavaScript · TypeScript · React · Tailwind CSS · 
-Framer Motion · Vite · Git
 
-## 🚀 What I'm building
-- **Nemo-Portfolio** — A game-inspired portfolio that feels like 
-  booting up a AAA title
-- **Arcadia** — Real estate admin dashboard with role-based auth
-- **IMMERSA26** — Fictional gaming conference website
+React · TypeScript · Tailwind CSS v4 · `motion/react` · React Router · Vite · Git → Vercel
+
+## 🚀 Recent work
+
+- **[Trilot Technologies](https://github.com/NemoCode-3011/trilot-technologies)** — Agency site with a kinetic hero and case study pages
+- **[BlackVault](https://github.com/NemoCode-3011/blackvault)** — Cold War espionage ARG with puzzle chains, Discord OAuth, Supabase-backed admin panel
+- **[Oríta Fine Dining](https://github.com/NemoCode-3011/orita)** — Multi-page restaurant site with an interactive menu and Yoruba cultural narrative
+- **[Knost & Co.](https://github.com/NemoCode-3011/knost-co)** — Construction site with scroll-pinned service reveals
+- **[De-Prime Barbers](https://github.com/NemoCode-3011/de-prime-barbers)** — Barbershop landing page, black/white/gold editorial aesthetic
 
 ## 🎯 Currently
-- Finishing frontend, moving into backend
-- Looking for junior frontend roles and freelance projects
-- Open to collaboration
+
+- Building Trilot Technologies from the ground up
+- Interning at Fly Rank, shipping client and portfolio projects
+- Open to freelance work and collaboration
 
 ## 🌍 Connect
-- Portfolio: https://nemo-portfolio-rho.vercel.app/
-- LinkedIn: linkedin.com/in/temilade-adeniyi-vivian
+
+- Portfolio: <https://nemo-portfolio-rho.vercel.app/>
+- LinkedIn: [temilade-adeniyi-vivian](https://www.linkedin.com/in/temilade-adeniyi-vivian)
 - Email: adeniyitemilade192@gmail.com
