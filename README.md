@@ -11,9 +11,9 @@ React · TypeScript · Tailwind CSS v4 · `motion/react` · React Router · Vite
 ## 🚀 Recent work
 
 - **[Trilot Technologies](https://github.com/NemoCode-3011/trilot-technologies)** — Agency site with a kinetic hero and case study pages
-- **[BlackVault](https://github.com/NemoCode-3011/blackvault)** — Cold War espionage ARG with puzzle chains, Discord OAuth, Supabase-backed admin panel
-- **[Oríta Fine Dining](https://github.com/NemoCode-3011/orita)** — Multi-page restaurant site with an interactive menu and Yoruba cultural narrative
-- **[Knost & Co.](https://github.com/NemoCode-3011/knost-co)** — Construction site with scroll-pinned service reveals
+- **[BlackVault](http://github.com/NemoCode-3011/BlackVault-v1)** — Cold War espionage ARG with puzzle chains, Discord OAuth, Supabase-backed admin panel
+- **[Oríta Fine Dining](https://github.com/NemoCode-3011/Orita-fine-dining)** — Multi-page restaurant site with an interactive menu and Yoruba cultural narrative
+- **[Knost & Co.](https://github.com/NemoCode-3011/knost-and-co)** — Construction site with scroll-pinned service reveals
 - **[De-Prime Barbers](https://github.com/NemoCode-3011/de-prime-barbers)** — Barbershop landing page, black/white/gold editorial aesthetic
 
 ## 🎯 Currently
