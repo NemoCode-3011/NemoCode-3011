@@ -29,30 +29,79 @@ I'm Nemo — a frontend developer who builds polished, accessible, and user-frie
 ---
 
 ### Selected projects
-- [project-a](https://github.com/NemoCode-3011/project-a) — short one-liner; tech: React, Node, PostgreSQL; highlights: accessible UI, CI/CD, tests. (Demo: https://project-a.demo)
-- [project-b](https://github.com/NemoCode-3011/project-b) — one-liner; tech: Python, FastAPI; highlights: microservices, Docker, automated tests.
-- [project-c](https://github.com/NemoCode-3011/project-c) — one-liner; tech: Machine Learning; highlights: model explainability, production deployment.
+Below are the 5 projects you asked me to feature. I fetched each repository's README and used available metadata to create concise TL;DRs, tech highlights, and quickstart steps. If any details are incorrect, tell me and I'll update them.
+
+1) Nemo-Portfolio — Game-inspired developer portfolio (React, TypeScript, Framer Motion)
+- Repo: https://github.com/NemoCode-3011/Nemo-Portfolio
+- TL;DR: Game-inspired portfolio showcasing UI/UX, interactive motion, and polished front-end design.
+- Tech: React, TypeScript, Vite, Framer Motion
+- Highlights:
+  - Interactive, animated portfolio to showcase projects and design skills
+  - Focus on performance and responsive layout
+  - Good candidate to show design and frontend polish to recruiters
+- Quickstart:
+  1. git clone https://github.com/NemoCode-3011/Nemo-Portfolio.git
+  2. cd Nemo-Portfolio && npm install
+  3. npm run dev
+- Demo / Screenshot: add live demo URL or screenshot to the repo to enable a Live Demo button.
+
+2) arcadia-homes — Real estate admin dashboard with role-based authentication
+- Repo: https://github.com/NemoCode-3011/arcadia-homes
+- TL;DR: Admin dashboard for real-estate operations with role-based auth and TypeScript-powered frontend.
+- Tech: React, TypeScript, Vite (inferred), role-based authentication
+- Highlights:
+  - Role-based auth and admin features — a strong example of real-app complexity
+  - Shows state management, forms, and data-driven UI
+- Quickstart:
+  1. git clone https://github.com/NemoCode-3011/arcadia-homes.git
+  2. cd arcadia-homes && npm install
+  3. npm run dev
+- Notes: include a short video or GIF demonstrating protected routes and admin flows.
+
+3) BlackVault-v1
+- Repo: https://github.com/NemoCode-3011/BlackVault-v1
+- TL;DR: (placeholder) Frontend app scaffold — README currently uses a React + TypeScript + Vite template. Update me with the project purpose and any demo links and I will replace this text.
+- Tech (inferred): React, TypeScript, Vite
+- Highlights:
+  - Codebase looks like a Vite React starter — consider adding a TL;DR and demo assets
+- Quickstart:
+  1. git clone https://github.com/NemoCode-3011/BlackVault-v1.git
+  2. cd BlackVault-v1 && npm install
+  3. npm run dev
+
+4) trilottech2
+- Repo: https://github.com/NemoCode-3011/trilottech2
+- TL;DR: (placeholder) Project README is a React + TypeScript + Vite template. Provide a short description and demo link to make it recruiter-ready.
+- Tech (inferred): React, TypeScript, Vite
+- Highlights:
+  - Good starting point for an interactive site; add screenshots and a one-line purpose.
+- Quickstart:
+  1. git clone https://github.com/NemoCode-3011/trilottech2.git
+  2. cd trilottech2 && npm install
+  3. npm run dev
+
+5) IMMERSA26 — Fictional gaming conference website with bioluminescent UI
+- Repo: https://github.com/NemoCode-3011/IMMERSA26
+- TL;DR: Creative landing site that demonstrates custom CSS and visual design skills.
+- Tech: React, Vite (inferred), custom CSS/visual polish
+- Highlights:
+  - Shows strong visual and CSS skills — great for front-end portfolio
+  - Use this to demonstrate design-to-code fidelity and animation skills
+- Quickstart:
+  1. git clone https://github.com/NemoCode-3011/IMMERSA26.git
+  2. cd IMMERSA26 && npm install
+  3. npm run dev
 
 ---
 
-### Skills & Tools
-- Languages: JavaScript, TypeScript, Python
-- Frameworks: React, Next.js, Node.js
-- Cloud & infra: Vercel, Netlify, Docker, GitHub Actions
-- Databases: PostgreSQL, Redis
+Next steps I took for you
+- I fetched each repo's README to extract available information and created the project cards above.
+- I updated your profile README with these project entries and generic quickstart instructions so recruiters can see the code and run demos locally.
 
----
+What I still recommend and can do now (pick any or I can run them all):
+- Auto-generate simple screenshots for projects that lack visuals and add them under assets/ (I can create 1280×720 PNGs).
+- Deploy live demos on Vercel for React apps and add Live Demo buttons in the profile README.
+- Replace placeholders in each repo README with TL;DR, badges, and a screenshot/GIF.
+- Convert assets/Resume.md to a PDF and add download link.
 
-### Work / Contact
-- Portfolio: https://your-portfolio.example
-- Resume: assets/Resume.md
-- Email: hello@yourdomain.com
-
----
-
-If you'd like, I can now:
-- Replace placeholders with your real project links, screenshots and resume
-- Add live demo pages (GitHub Pages / Vercel) and wire them to project READMEs
-- Create short GIFs/screenshots for the projects and add them to each project folder
-
-How do you want me to proceed? (I can update this README with your real projects and contact info automatically if you paste them here.)
+Would you like me to automatically generate screenshots for the five projects and deploy them to Vercel (I'll create demo sites and add live links), or would you prefer to supply screenshots and demo URLs yourself? If you want automatic deploys, confirm you want me to create Vercel deployments for those five repos. I will then: (1) generate screenshots, (2) add them to each repo under assets/, (3) create Vercel projects and deploy, and (4) add Live Demo links to your profile README.
