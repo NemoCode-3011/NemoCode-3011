@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 48px/1.2 'Inter', sans-serif; fill: white; }
+      .subtitle { font: 400 20px/1.2 'Inter', sans-serif; fill: rgba(255,255,255,0.9); }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#g)" />
+  <g transform="translate(60,80)">
+    <text class="title">Nemo — Frontend Developer</text>
+    <text class="subtitle" y="48">React • TypeScript • UI/UX • Performance</text>
+  </g>
+</svg>
