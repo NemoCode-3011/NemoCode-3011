@@ -1,25 +1,36 @@
-# Hi there, I'm a Full-Stack Software Engineer! 👋
+# Hi 👋, I'm Temilade Adeniyi
 
-## 🚀 About Me
-I am a full-stack developer finishing up an intensive software engineering bootcamp. I specialize in building end-to-end web applications using modern frameworks and AI-augmented developer workflows.
+### Full-Stack Developer - Lagos, Nigeria
+
+Current Focus
+
+- Building full-stack applications and learning by shipping real projects.
+- Deepening my backend skills with Node.js, Express, and PostgreSQL.
+- Learning system design and exploring how to build scalable, reliable systems.
+- Exploring the intersection of software development, interactive experiences, and gaming.
+
+Currently building:REKÒ—a digital museum exploring Nigeria's history, culture, and stories.
+
+**Fun fact:** 💡 I enjoy turning random ideas into real projects just to see if they can work.
+
+## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NemoCode-3011) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/temilade-adeniyi-vivian) [![Website](https://img.shields.io/badge/Website-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adeniyitemilade.vercel.app) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeniyitemilade192@gmail.com)
+
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,postgres,tailwind,js,docker,redis,nodejs)](https://skillicons.dev)
+
+## GitHub Stats
+
+![Profile views](https://komarev.com/ghpvc/?username=NemoCode-3011&color=blueviolet&style=flat-square)
+
+![Temilade Adeniyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=NemoCode-3011&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NemoCode-3011&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=NemoCode-3011&theme=tokyonight)
 
 ---
 
-## 🛠️ My Tech Stack
-
-### Frontend
-![JavaScript](https://shields.io) ![React](https://shields.io)  ![HTML5](https://shields.io) ![CSS3](https://shields.io)
-
-### Backend & Databases
-![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io)
-
-### Tools & AI Productivity
-![Git](https://shields.io) ![GitHub](https://shields.io) ![Visual Studio Code](https://shields.io) ![Copilot](https://shields.io)
-
----
-
-## 📊 My GitHub Stats
-<p align="left">
-<img src="https://vercel.app" alt="GitHub Stats" width="400"/>
-<img src="https://demolab.com" alt="GitHub Streak" width="400"/>
-</p>
+_Thanks for stopping by - 💡 I enjoy turning random ideas into real projects just to see if they can work._
