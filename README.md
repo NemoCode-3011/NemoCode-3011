@@ -1,75 +1,89 @@
 <div align="center">
+  <img src="./header.gif" alt="Nemo — developer profile, backend, systems and interactive worlds" width="100%" />
+</div>
 
-<img src="./header.gif" alt="NemoCode-3011 — Full-stack developer, backend, systems and interactive experiences" width="100%" />
+<div align="center">
+  <a href="https://nemo-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/OPEN_PORTFOLIO-7EFFA5?style=for-the-badge&logo=vercel&logoColor=07100B" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/NemoCode-3011"><img src="https://img.shields.io/badge/GITHUB_PROFILE-101A14?style=for-the-badge&logo=github&logoColor=7EFFA5" alt="GitHub" /></a>
+</div>
 
 <br/>
 
-<a href="https://nemo-portfolio-rho.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-9BEA9B?style=flat-square&logo=vercel&logoColor=111613" alt="Portfolio" />
-</a>
-<a href="https://github.com/NemoCode-3011">
-  <img src="https://img.shields.io/badge/GITHUB-202A24?style=flat-square&logo=github&logoColor=E8EDE7" alt="GitHub" />
-</a>
+> **I like making things work — then understanding why they work.**  
+> Full-stack developer leaning into backend engineering, system design, and the strange, exciting space where software becomes an experience.
 
-</div>
-
----
-
-## `whoami`
-
-I'm Nemo — a developer who enjoys building useful software, understanding the systems beneath the interface, and turning ideas into working products.
-
-I work across the stack, with a growing focus on backend engineering, system design, and reliable applications. I'm also interested in gaming, interactive experiences, and the technology behind immersive digital worlds.
-
-## `currently`
-
-- Building full-stack applications and learning by shipping real projects.
-- Deepening my backend skills with **Node.js, Express, and PostgreSQL**.
-- Exploring **system design**, scalability, and reliable software architecture.
-- Building **REKÒ**, a digital museum exploring Nigeria's history, culture, and stories.
-
-## `toolkit`
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,postgres,redis,git,github,docker&theme=dark" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind, Node.js, Express, PostgreSQL, Redis, Git, GitHub and Docker" />
-</p>
-
-## `selected work`
+<br/>
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="58%" valign="top">
+      <h3>01 / THE CURRENT BUILD</h3>
       <strong>REKÒ — Digital Museum</strong><br/>
-      Exploring Nigerian history, culture, and the stories shaping its present through an interactive digital experience.<br/><br/>
-      <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code><br/>
-      <em>In progress</em>
+      A digital experience exploring Nigeria's history, culture, and the stories shaping its present. Building the product across the interface, API, and data layer.
+      <br/><br/>
+      <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code>
     </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <strong>Full-stack Personal Blog</strong><br/>
-      A full-stack blog with authentication, image uploads, and an admin workflow.<br/><br/>
-      <code>Express</code> <code>PostgreSQL</code> <code>Cloudinary</code> <code>JWT</code><br/>
-      <em>Add the repository link when you're ready to showcase it.</em>
+    <td width="42%" valign="top">
+      <h3>02 / IN THE LAB</h3>
+      <ul>
+        <li>Backend architecture &amp; system design</li>
+        <li>Reliable APIs and data modelling</li>
+        <li>Gaming &amp; interactive experiences</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-## `github activity`
+---
+
+## `// toolkit`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,postgres,redis,git,github,docker&theme=dark" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind, Node.js, Express, PostgreSQL, Redis, Git, GitHub and Docker" />
+</p>
+
+## `// selected work`
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>REKÒ <sup>↗</sup></h3>
+      <sub>01 — CULTURE / INTERACTIVE STORYTELLING</sub>
+      <p>A digital museum experience built to make Nigerian history easier to explore, connect, and understand.</p>
+      <code>React</code> <code>TypeScript</code> <code>PostgreSQL</code>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Personal Blog <sup>↗</sup></h3>
+      <sub>02 — FULL-STACK / CONTENT</sub>
+      <p>A full-stack blog with authentication, image uploads, and an admin workflow.</p>
+      <code>Express</code> <code>PostgreSQL</code> <code>Cloudinary</code>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><sub>More experiments in progress. Only shipping what I can stand behind.</sub></p>
+
+---
+
+## `// signal`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NemoCode-3011&show_icons=true&hide_border=true&bg_color=0A110E&title_color=9BEA9B&icon_color=9BEA9B&text_color=EBF1EC" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemoCode-3011&layout=compact&hide_border=true&bg_color=0A110E&title_color=9BEA9B&text_color=EBF1EC" alt="Most-used languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=NemoCode-3011&show_icons=true&hide_border=true&bg_color=070C0B&title_color=7EFFA5&icon_color=F2A75D&text_color=EBF2EB&ring_color=7EFFA5" alt="GitHub stats" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NemoCode-3011&layout=compact&hide_border=true&bg_color=070C0B&title_color=7EFFA5&text_color=EBF2EB" alt="Top languages" />
 </div>
 
-## `outside the terminal`
-
-🎮 Into gaming, interactive experiences, and the technology that makes digital worlds feel alive.
-
-💡 I enjoy turning random ideas into real projects just to see if they can work.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+</div>
 
 ---
 
 <div align="center">
-  <samp>Still learning. Still building. Always curious.</samp>
+  <sub>OUTSIDE THE TERMINAL</sub>
+  <br/><br/>
+  🎮 Gaming, interactive worlds, and the technology that makes digital experiences feel alive.
+  <br/><br/>
+  <samp>BUILD WITH INTENT. STAY CURIOUS. KEEP GOING.</samp>
 </div>

@@ -1,0 +1,23 @@
+NEMO PROFILE README KIT
+
+FILES
+- README.md: profile README
+- header.gif: custom animated banner
+- section-divider.png: optional section divider graphic
+
+INSTALL
+1. Open https://github.com/NemoCode-3011
+2. Open the repository named exactly NemoCode-3011. If it doesn't exist, create a public repository with that exact name.
+3. Back up your existing README if needed.
+4. Upload README.md and header.gif to the repository root (same folder).
+5. Commit the changes.
+
+IMPORTANT EDITS
+- The README currently uses the user's known portfolio URL.
+- Verify the featured projects are public before publishing; replace generic project labels with real repository links.
+- GitHub stats are served by a third-party service and may be unavailable or rate-limited.
+- The contribution snake URL will only work after its GitHub Action has been configured. To enable it:
+  a. Create a workflow at .github/workflows/snake.yml
+  b. Use Platane/snk's documented GitHub Actions instructions: https://github.com/Platane/snk
+  c. Ensure the workflow commits output to the output branch, then use the generated SVG URL in README.
+- Keep header.gif and README.md together because the README uses a relative image path ./header.gif.
