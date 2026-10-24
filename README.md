@@ -1,47 +1,25 @@
-# Hey, I'm Nemo 👋
+# Hi there, I'm a Full-Stack Software Engineer! 👋
 
-**Software developer building thoughtful, useful things for the web.**
-
-I’m a frontend/backend developer working with **React, TypeScript, and modern web technologies**, currently expanding into backend development and full-stack engineering.
-
-I care about building interfaces that don't just look good; they should be **usable, responsive, accessible, and built to actually work.**
-
-### Currently
-
-* 🌱 Learning **backend development, APIs, databases & Go**
-* 🔨 Building projects that combine polished frontend experiences with real functionality
-* 🚀 Working toward becoming a **full-stack developer**
-* 💼 Open to freelance, contract, and development opportunities
-
-
-## Tech Stack
-
-**Frontend**
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Tailwind CSS`
-
-**Tools & Libraries**
-
-`Vite` · `React Router` · `Framer Motion` · `Git` · `GitHub` · `Figma`
-
-**Currently Learning**
-
-`Node.js` · `Express` · `PostgreSQL` · `APIs` · `Go`
+## 🚀 About Me
+I am a full-stack developer finishing up an intensive software engineering bootcamp. I specialize in building end-to-end web applications using modern frameworks and AI-augmented developer workflows.
 
 ---
 
+## 🛠️ My Tech Stack
 
-## What I'm Building Toward
+### Frontend
+![JavaScript](https://shields.io) ![React](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
-My goal is to grow into **full-stack engineering** — building complete products from interface to API, database, authentication, and deployment.
+### Backend & Databases
+![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io)
 
-> **Build it. Understand it. Make it useful.**
-
----
-
-## Let's Connect
-
-📧 **Email:**adeniyitemilade192@gmail.com
-💼 **LinkedIn:** [Temilade Adeniyi Vivian](https://linkedin.com/in/temilade-adeniyi-vivian)
+### Tools & AI Productivity
+![Git](https://shields.io) ![GitHub](https://shields.io) ![Visual Studio Code](https://shields.io) ![Copilot](https://shields.io)
 
 ---
+
+## 📊 My GitHub Stats
+<p align="left">
+<img src="https://vercel.app" alt="GitHub Stats" width="400"/>
+<img src="https://herokuapp.com" alt="GitHub Streak" width="400"/>
+</p>
