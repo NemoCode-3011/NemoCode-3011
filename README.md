@@ -8,7 +8,7 @@ I am a full-stack developer finishing up an intensive software engineering bootc
 ## 🛠️ My Tech Stack
 
 ### Frontend
-![JavaScript](https://shields.io) ![React](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+![JavaScript](https://shields.io) ![React](https://shields.io)  ![HTML5](https://shields.io) ![CSS3](https://shields.io)
 
 ### Backend & Databases
 ![NodeJS](https://shields.io) ![Express.js](https://shields.io) ![PostgreSQL](https://shields.io) ![MongoDB](https://shields.io)
@@ -21,5 +21,5 @@ I am a full-stack developer finishing up an intensive software engineering bootc
 ## 📊 My GitHub Stats
 <p align="left">
 <img src="https://vercel.app" alt="GitHub Stats" width="400"/>
-<img src="https://herokuapp.com" alt="GitHub Streak" width="400"/>
+<img src="https://demolab.com" alt="GitHub Streak" width="400"/>
 </p>
