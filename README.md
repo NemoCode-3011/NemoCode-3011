@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.gif" alt="Nemo — developer profile, backend, systems and interactive worlds" width="100%" />
+  <img src="./header.gif" alt=" Nemo — developer profile, frontend, backend, systems and interactive worlds" width="100%" />
 </div>
 
 <div align="center">
