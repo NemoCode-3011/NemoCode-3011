@@ -1,61 +1,36 @@
-# Nemo — Full-stack developer
+# Temilade — Full-stack Developer
 
 <div align="center">
-  <img src="./portfolio-banner.svg" alt="Nemo — full-stack developer building systems, interfaces, and digital experiences" width="100%" />
+  <img src="./portfolio-banner.svg" alt="Temilade — full-stack developer creating thoughtful digital experiences, with a contemporary Yoruba-inspired visual identity" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://nemo-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-CAFF70?style=for-the-badge&logo=vercel&logoColor=101713" alt="Portfolio" /></a>
-  <a href="https://github.com/NemoCode-3011"><img src="https://img.shields.io/badge/GITHUB-101713?style=for-the-badge&logo=github&logoColor=CAFF70" alt="GitHub profile" /></a>
+  <a href="https://nemo-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EEE4D4?style=for-the-badge&logo=vercel&logoColor=252923" alt="Portfolio" /></a>
+  <a href="https://github.com/NemoCode-3011"><img src="https://img.shields.io/badge/GITHUB-252923?style=for-the-badge&logo=github&logoColor=EEE4D4" alt="GitHub profile" /></a>
 </div>
 
-> I like making things work — then understanding why they work.
+I’m Temilade, a full-stack developer who enjoys turning ideas into useful, thoughtful digital experiences — from the way they look to the way they work.
 
-I'm a **full-stack developer** who enjoys building across the whole stack: thoughtful interfaces, useful APIs, data-driven features, and the systems that connect them. I care about how a product feels to use and how well it works behind the scenes.
+## A few things I’m building
 
-## What I work with
+**[REKÒ](https://github.com/NemoCode-3011/Rekonekt-Frontend)**  
+A digital museum exploring Nigerian history, culture, and the stories shaping the present.  
+*React · TypeScript · Three.js · Node.js · PostgreSQL*
 
-- **Frontend:** JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS
-- **Backend:** Node.js, Express, API design, authentication, authorization
-- **Data and infrastructure:** PostgreSQL, Redis, Docker
-- **Engineering practice:** testing, debugging, deployment, maintainable architecture
+**[The Dystopian Architect](https://github.com/NemoCode-3011/thedystopianarchitect)**  
+A personal publishing platform built around a considered reading experience.  
+[Frontend](https://github.com/NemoCode-3011/thedystopianarchitect) · [Backend](https://github.com/NemoCode-3011/TDA-BACKEND)
 
-## Things I've been building
+**[BlackVault](https://github.com/NemoCode-3011/BlackVault-v1)**  
+An interactive, security-themed experience with authentication and database-backed access.
 
-### REKÒ — Digital Museum of Nigerian History
-A digital museum for exploring Nigerian history, culture, and the stories shaping the present. REKÒ connects exhibitions with people, places, events, and artifacts to help visitors move from a question to context and understanding.
+**[Arcadia Homes](https://github.com/NemoCode-3011/arcadia-homes)**  
+A real-estate concept focused on discovering properties through a polished interface.
 
-**Stack:** React, TypeScript, Three.js, Node.js, Express, PostgreSQL, Redis
+## What I enjoy
 
-- [Frontend](https://github.com/NemoCode-3011/Rekonekt-Frontend)
-- [Backend](https://github.com/NemoCode-3011/Rekonekt-Backend)
-
-*In development; not publicly deployed yet.*
-
-### The Dystopian Architect
-A personal publishing platform combining an editorial reading experience with article-management tools.
-
-- [Frontend](https://github.com/NemoCode-3011/thedystopianarchitect)
-- [Backend](https://github.com/NemoCode-3011/TDA-BACKEND)
-
-*In development; not publicly deployed yet.*
-
-### BlackVault
-An interactive, security-themed narrative experience with Supabase authentication and database-backed access checks.
-
-- [Repository](https://github.com/NemoCode-3011/BlackVault-v1)
-- [Live demo](https://black-vault-arg.vercel.app/)
-
-### Arcadia Homes
-A real-estate frontend concept for property discovery and separate visitor and administration experiences.
-
-- [Repository](https://github.com/NemoCode-3011/arcadia-homes)
-- [Live demo](https://arcadia-homes-wvni.vercel.app/)
-
-## A few things about me
-
-I'm interested in digital products, interactive worlds, gaming, and the engineering choices that turn an idea into something people can actually use.
+Building across the stack, exploring visual ideas, learning how systems fit together, and making the details feel right.
 
 <div align="center">
-  <sub>BUILD WITH INTENT. STAY CURIOUS. KEEP GOING.</sub>
+  <sub>Made with curiosity · Ibadan, Nigeria</sub>
 </div>
