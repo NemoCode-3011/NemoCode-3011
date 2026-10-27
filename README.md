@@ -1,64 +1,42 @@
 # Temíládé
 
 <div align="center">
-  <img src="./portfolio-banner.svg" alt="Temíládé — full-stack developer" width="100%" />
+  <img src="./portfolio-banner.svg" alt="Temíládé — a personal portfolio banner" width="100%" />
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://nemo-portfolio-rho.vercel.app/">Portfolio</a> ·
   <a href="https://github.com/NemoCode-3011">GitHub</a>
-</div>
+</p>
 
-I'm curious about how people experience technology: how an interface feels, how a story draws you in, and how all the pieces work together. I build across the stack, explore ideas at the intersection of digital products, culture, and interactive experiences, and learn by making things that genuinely interest me.
+I'm interested in the places where technology and creativity meet — digital experiences with a point of view, stories worth exploring, and products that feel considered from the first interaction to the last detail. I build across the stack, follow my curiosity, and like making ideas real.
 
-## A little of what I do
+## Selected work
 
-I enjoy bringing ideas to life from the first sketch to the working product — shaping the experience, building the features, and figuring out the details along the way. Outside the code, I'm drawn to creative worlds, gaming, Nigerian history and culture, and the possibilities of technology.
-
-## Selected projects
-
-### [REKÒ](https://github.com/NemoCode-3011/Rekonekt-Frontend)
-A digital museum exploring Nigerian history, culture, and the stories shaping the present.
-
-**Stack**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,threejs,gsap,nodejs,express,postgres,redis,docker" alt="REKÒ technology stack: React, TypeScript, Vite, Tailwind CSS, Three.js, GSAP, Node.js, Express, PostgreSQL, Redis, and Docker" />
-</div>
-
+**[REKÒ](https://github.com/NemoCode-3011/Rekonekt-Frontend)**  
+A digital museum exploring Nigerian history, culture, and the stories shaping the present.  
 [Frontend](https://github.com/NemoCode-3011/Rekonekt-Frontend) · [Backend](https://github.com/NemoCode-3011/Rekonekt-Backend)
 
-### [The Dystopian Architect](https://github.com/NemoCode-3011/thedystopianarchitect)
-A personal publishing platform with an editorial reading experience and tools for managing articles.
-
-**Stack**
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,express,postgres,cloudflare" alt="The Dystopian Architect technology stack" />
-</div>
-
+**[The Dystopian Architect](https://github.com/NemoCode-3011/thedystopianarchitect)**  
+A personal publishing platform built around an editorial reading experience.  
 [Frontend](https://github.com/NemoCode-3011/thedystopianarchitect) · [Backend](https://github.com/NemoCode-3011/TDA-BACKEND)
 
-### [BlackVault](https://github.com/NemoCode-3011/BlackVault-v1)
-A story-driven, security-themed web experience built around identity, access, and atmosphere.
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase,gsap" alt="BlackVault technology stack: React, TypeScript, Vite, Tailwind CSS, Supabase, and GSAP" />
-</div>
-
+**[BlackVault](https://github.com/NemoCode-3011/BlackVault-v1)**  
+An atmospheric, story-driven web experience with authentication and interactive elements.  
 [Repository](https://github.com/NemoCode-3011/BlackVault-v1) · [Live demo](https://black-vault-arg.vercel.app/)
 
-### [Arcadia Homes](https://github.com/NemoCode-3011/arcadia-homes)
-A real-estate interface for exploring properties, listings, and an admin experience.
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,axios" alt="Arcadia Homes technology stack: React, TypeScript, Vite, Tailwind CSS, and Axios" />
-</div>
-
+**[Arcadia Homes](https://github.com/NemoCode-3011/arcadia-homes)**  
+A real-estate interface for discovering properties and exploring an admin experience.  
 [Repository](https://github.com/NemoCode-3011/arcadia-homes) · [Live demo](https://arcadia-homes-wvni.vercel.app/)
+
+## My toolkit
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,gsap" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, GSAP" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,redis,docker,git,github" alt="Node.js, Express, Go, PostgreSQL, Redis, Docker, Git, GitHub" />
+</p>
 
 ---
 
-<div align="center">
-  <sub>Curiosity, craft, and a little bit of wonder.</sub>
-</div>
+<p align="center"><em>Curious by nature. Making things on purpose.</em></p>
