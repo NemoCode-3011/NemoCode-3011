@@ -1,36 +1,64 @@
-# Temilade — Full-stack Developer
+# Temíládé
 
 <div align="center">
-  <img src="./portfolio-banner.svg" alt="Temilade — full-stack developer creating thoughtful digital experiences, with a contemporary Yoruba-inspired visual identity" width="100%" />
+  <img src="./portfolio-banner.svg" alt="Temíládé — full-stack developer" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://nemo-portfolio-rho.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EEE4D4?style=for-the-badge&logo=vercel&logoColor=252923" alt="Portfolio" /></a>
-  <a href="https://github.com/NemoCode-3011"><img src="https://img.shields.io/badge/GITHUB-252923?style=for-the-badge&logo=github&logoColor=EEE4D4" alt="GitHub profile" /></a>
+  <a href="https://nemo-portfolio-rho.vercel.app/">Portfolio</a> ·
+  <a href="https://github.com/NemoCode-3011">GitHub</a>
 </div>
 
-I’m Temilade, a full-stack developer who enjoys turning ideas into useful, thoughtful digital experiences — from the way they look to the way they work.
+I'm curious about how people experience technology: how an interface feels, how a story draws you in, and how all the pieces work together. I build across the stack, explore ideas at the intersection of digital products, culture, and interactive experiences, and learn by making things that genuinely interest me.
 
-## A few things I’m building
+## A little of what I do
 
-**[REKÒ](https://github.com/NemoCode-3011/Rekonekt-Frontend)**  
-A digital museum exploring Nigerian history, culture, and the stories shaping the present.  
-*React · TypeScript · Three.js · Node.js · PostgreSQL*
+I enjoy bringing ideas to life from the first sketch to the working product — shaping the experience, building the features, and figuring out the details along the way. Outside the code, I'm drawn to creative worlds, gaming, Nigerian history and culture, and the possibilities of technology.
 
-**[The Dystopian Architect](https://github.com/NemoCode-3011/thedystopianarchitect)**  
-A personal publishing platform built around a considered reading experience.  
+## Selected projects
+
+### [REKÒ](https://github.com/NemoCode-3011/Rekonekt-Frontend)
+A digital museum exploring Nigerian history, culture, and the stories shaping the present.
+
+**Stack**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,threejs,gsap,nodejs,express,postgres,redis,docker" alt="REKÒ technology stack: React, TypeScript, Vite, Tailwind CSS, Three.js, GSAP, Node.js, Express, PostgreSQL, Redis, and Docker" />
+</div>
+
+[Frontend](https://github.com/NemoCode-3011/Rekonekt-Frontend) · [Backend](https://github.com/NemoCode-3011/Rekonekt-Backend)
+
+### [The Dystopian Architect](https://github.com/NemoCode-3011/thedystopianarchitect)
+A personal publishing platform with an editorial reading experience and tools for managing articles.
+
+**Stack**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,nodejs,express,postgres,cloudflare" alt="The Dystopian Architect technology stack" />
+</div>
+
 [Frontend](https://github.com/NemoCode-3011/thedystopianarchitect) · [Backend](https://github.com/NemoCode-3011/TDA-BACKEND)
 
-**[BlackVault](https://github.com/NemoCode-3011/BlackVault-v1)**  
-An interactive, security-themed experience with authentication and database-backed access.
+### [BlackVault](https://github.com/NemoCode-3011/BlackVault-v1)
+A story-driven, security-themed web experience built around identity, access, and atmosphere.
 
-**[Arcadia Homes](https://github.com/NemoCode-3011/arcadia-homes)**  
-A real-estate concept focused on discovering properties through a polished interface.
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,supabase,gsap" alt="BlackVault technology stack: React, TypeScript, Vite, Tailwind CSS, Supabase, and GSAP" />
+</div>
 
-## What I enjoy
+[Repository](https://github.com/NemoCode-3011/BlackVault-v1) · [Live demo](https://black-vault-arg.vercel.app/)
 
-Building across the stack, exploring visual ideas, learning how systems fit together, and making the details feel right.
+### [Arcadia Homes](https://github.com/NemoCode-3011/arcadia-homes)
+A real-estate interface for exploring properties, listings, and an admin experience.
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,axios" alt="Arcadia Homes technology stack: React, TypeScript, Vite, Tailwind CSS, and Axios" />
+</div>
+
+[Repository](https://github.com/NemoCode-3011/arcadia-homes) · [Live demo](https://arcadia-homes-wvni.vercel.app/)
+
+---
 
 <div align="center">
-  <sub>Made with curiosity · Ibadan, Nigeria</sub>
+  <sub>Curiosity, craft, and a little bit of wonder.</sub>
 </div>
