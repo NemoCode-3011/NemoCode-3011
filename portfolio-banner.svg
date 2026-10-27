@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Nemo — Full-stack developer</title>
+  <desc id="desc">A dark editorial banner with acid green accents, fine grid lines, and a technical motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101713"/>
+      <stop offset="1" stop-color="#070b09"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c8ff70" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#78f7b2" stop-opacity=".15"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#d9f4dd" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#a6ff6b" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#a6ff6b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <ellipse cx="940" cy="170" rx="330" ry="260" fill="url(#aura)"/>
+  <path d="M730 0V360M762 0V360M794 0V360" stroke="#d9f4dd" stroke-opacity=".055"/>
+  <path d="M790 250H925V190H1000V115H1125" fill="none" stroke="url(#glow)" stroke-width="2"/>
+  <path d="M840 290H970V255H1060V210H1200" fill="none" stroke="#c8ff70" stroke-opacity=".3" stroke-width="1.5"/>
+  <path d="M905 40H1010V75H1080V40H1160" fill="none" stroke="#c8ff70" stroke-opacity=".25" stroke-width="1.5"/>
+  <circle cx="925" cy="190" r="4" fill="#c8ff70"/>
+  <circle cx="1125" cy="115" r="4" fill="#c8ff70"/>
+  <circle cx="1060" cy="210" r="3" fill="#c8ff70"/>
+  <rect x="72" y="58" width="42" height="4" rx="2" fill="#c8ff70"/>
+  <text x="72" y="92" fill="#c8ff70" font-family="monospace" font-size="13" letter-spacing="3">INDEPENDENT BUILDER / NIGERIA</text>
+  <text x="68" y="190" fill="#f2f4ec" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="700" letter-spacing="-4">NEMO<span fill="#c8ff70">.</span></text>
+  <text x="74" y="232" fill="#d4ddd5" font-family="Arial, Helvetica, sans-serif" font-size="22">Full-stack developer · Backend-minded</text>
+  <text x="74" y="274" fill="#8c9b8f" font-family="monospace" font-size="14" letter-spacing="1.4">SYSTEMS  /  DATA  /  DIGITAL EXPERIENCES</text>
+  <path d="M74 309H430" stroke="#c8ff70" stroke-opacity=".45"/>
+  <text x="74" y="333" fill="#8c9b8f" font-family="monospace" font-size="11" letter-spacing="2">BUILD WITH INTENT. KEEP GOING.</text>
+  <text x="1128" y="330" fill="#66756a" font-family="monospace" font-size="11" text-anchor="end">PROFILE // 001</text>
+</svg>
