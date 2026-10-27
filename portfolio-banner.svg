@@ -1,27 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Temíládé</title>
-  <desc id="desc">A calm editorial banner with warm ivory lettering and a geometric motif inspired by Yoruba textile patterns.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Temíládé — digital maker</title>
+  <desc id="desc">An art-directed, collage-inspired composition with warm paper, ink, cobalt, and terracotta. Abstract shapes and a typographic name create a personal editorial identity.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#202D43"/><stop offset="1" stop-color="#111A28"/></linearGradient>
-    <pattern id="woven" width="58" height="58" patternUnits="userSpaceOnUse">
-      <path d="M29 2L56 29 29 56 2 29Z" fill="none" stroke="#E8D9C2" stroke-opacity=".13"/>
-      <path d="M29 15L43 29 29 43 15 29Z" fill="none" stroke="#C97855" stroke-opacity=".45"/>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2E9D9"/><stop offset="1" stop-color="#E4D3BB"/></linearGradient>
+    <pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse">
+      <path d="M0 12H100M0 63H100" stroke="#293A63" stroke-opacity=".045"/>
+      <circle cx="16" cy="37" r="1" fill="#293A63" fill-opacity=".13"/><circle cx="71" cy="82" r="1" fill="#293A63" fill-opacity=".12"/>
     </pattern>
-    <clipPath id="clip"><rect width="1200" height="320" rx="16"/></clipPath>
+    <clipPath id="clip"><rect width="1200" height="380" rx="12"/></clipPath>
   </defs>
   <g clip-path="url(#clip)">
-    <rect width="1200" height="320" fill="url(#bg)"/>
-    <rect x="760" y="-90" width="540" height="500" fill="url(#woven)" transform="rotate(8 1030 160)"/>
-    <circle cx="970" cy="160" r="120" fill="#C97855" fill-opacity=".09"/>
-    <circle cx="970" cy="160" r="88" fill="none" stroke="#D9B77E" stroke-opacity=".6"/>
-    <path d="M970 92L1038 160 970 228 902 160Z" fill="none" stroke="#E8D9C2" stroke-opacity=".85" stroke-width="1.5"/>
-    <path d="M970 119L1011 160 970 201 929 160Z" fill="none" stroke="#C97855" stroke-width="2"/>
-    <circle cx="970" cy="160" r="5" fill="#D9B77E"/>
-    <path d="M72 78H112" stroke="#C97855" stroke-width="2"/>
-    <text x="72" y="112" fill="#D9B77E" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3">FULL-STACK DEVELOPER</text>
-    <text x="68" y="196" fill="#F4EBDD" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-style="italic" letter-spacing="-1">Temíládé</text>
-    <text x="74" y="237" fill="#E8D9C2" font-family="Arial, Helvetica, sans-serif" font-size="17">Ideas, craft &amp; digital experiences.</text>
-    <path d="M74 270H310" stroke="#D9B77E" stroke-opacity=".7"/>
-    <text x="1128" y="286" fill="#E8D9C2" fill-opacity=".65" font-family="monospace" font-size="10" text-anchor="end">01 / PERSONAL PROFILE</text>
+    <rect width="1200" height="380" fill="url(#paper)"/>
+    <rect width="1200" height="380" fill="url(#grain)"/>
+    <path d="M820 -40L1240 100 1100 430 720 320Z" fill="#293A63"/>
+    <path d="M895 -5L1185 95 1082 342 810 270Z" fill="#D16D4B"/>
+    <path d="M958 44L1127 102 1068 245 907 196Z" fill="#E4B75D"/>
+    <path d="M1042 93L1091 110 1073 158 1024 141Z" fill="#F2E9D9"/>
+    <path d="M820 0L1200 380M890 0L1200 310M960 0L1200 240" stroke="#F2E9D9" stroke-opacity=".28" stroke-width="1.5"/>
+    <path d="M62 60H126" stroke="#D16D4B" stroke-width="5"/>
+    <text x="64" y="92" fill="#293A63" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">A LITTLE BIT OF EVERYTHING</text>
+    <text x="55" y="205" fill="#202A42" font-family="Georgia, 'Times New Roman', serif" font-size="91" font-weight="normal" letter-spacing="-4">Temíládé</text>
+    <path d="M66 230H625" stroke="#293A63" stroke-opacity=".25" stroke-width="1"/>
+    <text x="66" y="269" fill="#293A63" font-family="Arial, Helvetica, sans-serif" font-size="22">Full-stack developer &amp; curious mind.</text>
+    <text x="66" y="305" fill="#5E625F" font-family="Arial, Helvetica, sans-serif" font-size="16">Culture, code, stories, and digital worlds.</text>
+    <text x="66" y="350" fill="#293A63" font-family="monospace" font-size="11" letter-spacing="2">IBADAN, NIGERIA  /  ON THE INTERNET</text>
+    <circle cx="1100" cy="305" r="22" fill="none" stroke="#F2E9D9" stroke-width="1.5"/>
+    <path d="M1088 305L1097 314 1114 294" fill="none" stroke="#F2E9D9" stroke-width="2"/>
   </g>
 </svg>
