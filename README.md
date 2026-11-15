@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <a href="https://vercel.app">Portfolio</a> ·
-  <a href="https://linkedin.com">LinkedIn</a> ·
-  <a href="https://github.com">GitHub</a>
+  <a href="https://adeniyitemilade-nine.vercel.app/">Portfolio</a> ·
+  <a href="www.linkedin.com/in/temilade-adeniyi-vivian">LinkedIn</a> ·
+  <a href="https://github.com/NemoCode-3011">GitHub</a>
 </p>
 
 <br/>
