@@ -1,30 +1,78 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
-  <title id="title">Temíládé — digital maker</title>
-  <desc id="desc">An art-directed, collage-inspired composition with warm paper, ink, cobalt, and terracotta. Abstract shapes and a typographic name create a personal editorial identity.</desc>
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://w3.org">
   <defs>
-    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F2E9D9"/><stop offset="1" stop-color="#E4D3BB"/></linearGradient>
-    <pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse">
-      <path d="M0 12H100M0 63H100" stroke="#293A63" stroke-opacity=".045"/>
-      <circle cx="16" cy="37" r="1" fill="#293A63" fill-opacity=".13"/><circle cx="71" cy="82" r="1" fill="#293A63" fill-opacity=".12"/>
+    <!-- Deep Obsidian Background Gradient -->
+    <linearGradient id="bg-grad" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090A0F"/>
+      <stop offset="50%" stop-color="#11131F"/>
+      <stop offset="100%" stop-color="#090A0F"/>
+    </linearGradient>
+
+    <!-- Subtle Cyber-Violet & Cyan Ambient Glow -->
+    <radialGradient id="glow-left" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 150) rotate(90) scale(220 350)">
+      <stop stop-color="#7C3AED" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glow-right" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(980 150) rotate(90) scale(200 320)">
+      <stop stop-color="#06B6D4" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Perspective Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
     </pattern>
-    <clipPath id="clip"><rect width="1200" height="380" rx="12"/></clipPath>
+
+    <!-- Accent Gradient Line -->
+    <linearGradient id="accent-line" x1="0" y1="0" x2="400" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </linearGradient>
   </defs>
-  <g clip-path="url(#clip)">
-    <rect width="1200" height="380" fill="url(#paper)"/>
-    <rect width="1200" height="380" fill="url(#grain)"/>
-    <path d="M820 -40L1240 100 1100 430 720 320Z" fill="#293A63"/>
-    <path d="M895 -5L1185 95 1082 342 810 270Z" fill="#D16D4B"/>
-    <path d="M958 44L1127 102 1068 245 907 196Z" fill="#E4B75D"/>
-    <path d="M1042 93L1091 110 1073 158 1024 141Z" fill="#F2E9D9"/>
-    <path d="M820 0L1200 380M890 0L1200 310M960 0L1200 240" stroke="#F2E9D9" stroke-opacity=".28" stroke-width="1.5"/>
-    <path d="M62 60H126" stroke="#D16D4B" stroke-width="5"/>
-    <text x="64" y="92" fill="#293A63" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="3">A LITTLE BIT OF EVERYTHING</text>
-    <text x="55" y="205" fill="#202A42" font-family="Georgia, 'Times New Roman', serif" font-size="91" font-weight="normal" letter-spacing="-4">Temíládé</text>
-    <path d="M66 230H625" stroke="#293A63" stroke-opacity=".25" stroke-width="1"/>
-    <text x="66" y="269" fill="#293A63" font-family="Arial, Helvetica, sans-serif" font-size="22">Full-stack developer &amp; curious mind.</text>
-    <text x="66" y="305" fill="#5E625F" font-family="Arial, Helvetica, sans-serif" font-size="16">Culture, code, stories, and digital worlds.</text>
-    <text x="66" y="350" fill="#293A63" font-family="monospace" font-size="11" letter-spacing="2">IBADAN, NIGERIA  /  ON THE INTERNET</text>
-    <circle cx="1100" cy="305" r="22" fill="none" stroke="#F2E9D9" stroke-width="1.5"/>
-    <path d="M1088 305L1097 314 1114 294" fill="none" stroke="#F2E9D9" stroke-width="2"/>
-  </g>
+
+  <!-- Base Canvas -->
+  <rect width="1200" height="300" rx="16" fill="url(#bg-grad)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow-left)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow-right)"/>
+
+  <!-- Outer Frame Border -->
+  <rect x="1" y="1" width="1198" height="298" rx="15" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1.5"/>
+
+  <!-- HUD Corner Brackets (Game UI Touch) -->
+  <path d="M 28 52 L 28 28 L 52 28" stroke="#06B6D4" stroke-width="2" stroke-opacity="0.7"/>
+  <path d="M 1172 52 L 1172 28 L 1148 28" stroke="#7C3AED" stroke-width="2" stroke-opacity="0.7"/>
+  <path d="M 28 248 L 28 272 L 52 272" stroke="#7C3AED" stroke-width="2" stroke-opacity="0.7"/>
+  <path d="M 1172 248 L 1172 272 L 1148 272" stroke="#06B6D4" stroke-width="2" stroke-opacity="0.7"/>
+
+  <!-- Top HUD Status Bar -->
+  <circle cx="64" cy="44" r="4" fill="#10B981">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="78" y="48" fill="#9CA3AF" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="2">
+    SYS.ONLINE // NEMOCODE-3011
+  </text>
+
+  <text x="1136" y="48" text-anchor="end" fill="#6B7280" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.5">
+    [ UI · 3D · SYSTEMS ]
+  </text>
+
+  <!-- Main Title -->
+  <text x="600" y="148" text-anchor="middle" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="4">
+    TEMÍLÁDÉ
+  </text>
+
+  <!-- Glowing Divider -->
+  <rect x="400" y="170" width="400" height="2" rx="1" fill="url(#accent-line)"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="206" text-anchor="middle" fill="#D1D5DB" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" letter-spacing="2.5">
+    FULL-STACK DEVELOPER · INTERACTIVE WORLDS &amp; WEB SYSTEMS
+  </text>
+
+  <!-- Bottom HUD Metadata -->
+  <text x="600" y="256" text-anchor="middle" fill="#6B7280" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.5">
+    STUDIED PEOPLE BEFORE CODE // BUILDING AT TRILOT TECHNOLOGIES
+  </text>
 </svg>
