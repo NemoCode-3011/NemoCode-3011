@@ -1,11 +1,11 @@
 # Temíládé
 
 <div align="center">
-  <img src="./banner.svg" alt="Temíládé Banner" width="100%" />
+  <img src="./portfolio-banner.svg" alt="Temíládé Banner" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://adeniyitemilade-nine.vercel.app/">Portfolio</a> ·
+  <a href="https://vercel.app">Portfolio</a> ·
   <a href="https://linkedin.com">LinkedIn</a> ·
   <a href="https://github.com">GitHub</a>
 </p>
@@ -26,7 +26,12 @@ When I’m not shipping code, I’m usually deep into a game, dissecting UI/grap
       <h3><a href="https://github.com/Rekonekt-Frontend">REKÒ</a></h3>
       <p>An interactive digital museum exploring Nigerian history and culture—built with 3D artifacts, motion, and connected storytelling.</p>
       <p>
-        <img src="https://vercel.app" height="28" alt="REKÒ Stack" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="React" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="TypeScript" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Three.js" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Tailwind CSS" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Node.js" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="PostgreSQL" />
       </p>
       <a href="https://github.com/Rekonekt-Frontend">Frontend</a> · 
       <a href="https://github.com/Rekonekt-Backend">Backend</a>
@@ -35,10 +40,14 @@ When I’m not shipping code, I’m usually deep into a game, dissecting UI/grap
       <h3><a href="https://github.com/BlackVault-v1">BlackVault</a></h3>
       <p>A security-themed alternate reality game (ARG) web experience with staged progression, mini-games, sound design, and auth.</p>
       <p>
-        <img src="https://vercel.app" height="28" alt="BlackVault Stack" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="React" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="TypeScript" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Tailwind CSS" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Supabase" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Vite" />
       </p>
       <a href="https://github.com/BlackVault-v1">Repository</a> · 
-      <a href="https://black-vault-arg.vercel.app/">Play / Live Demo</a>
+      <a href="https://vercel.app">Play / Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -46,7 +55,11 @@ When I’m not shipping code, I’m usually deep into a game, dissecting UI/grap
       <h3><a href="https://github.com/thedystopianarchitect">The Dystopian Architect</a></h3>
       <p>A custom full-stack publishing platform and personal corner of the internet built for clean, distraction-free reading.</p>
       <p>
-        <img src="https://vercel.app" height="28" alt="The Dystopian Architect Stack" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="React" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="TypeScript" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Node.js" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="PostgreSQL" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Redis" />
       </p>
       <a href="https://github.com/thedystopianarchitect">Frontend</a> · 
       <a href="https://github.com/TDA-BACKEND">Backend</a>
@@ -55,10 +68,13 @@ When I’m not shipping code, I’m usually deep into a game, dissecting UI/grap
       <h3><a href="https://github.com/arcadia-homes">Arcadia Homes</a></h3>
       <p>A sleek property discovery interface paired with a role-based admin dashboard.</p>
       <p>
-        <img src="https://vercel.app" height="28" alt="Arcadia Homes Stack" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="React" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="TypeScript" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Tailwind CSS" />
+        <img src="https://jsdelivr.net" width="24" height="24" alt="Vite" />
       </p>
       <a href="https://github.com/arcadia-homes">Repository</a> · 
-      <a href="https://arcadia-homes-wvni.vercel.app/">Live Demo</a>
+      <a href="https://vercel.app">Live Demo</a>
     </td>
   </tr>
 </table>
@@ -71,15 +87,29 @@ When I’m not shipping code, I’m usually deep into a game, dissecting UI/grap
   <tr>
     <td width="33%" valign="top">
       <h4>Graphics & Interface</h4>
-      <img src="https://vercel.app" alt="Frontend & Graphics Stack" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="React" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="TypeScript" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Three.js" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Tailwind" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Vite" />
     </td>
     <td width="33%" valign="top">
       <h4>Backend & Systems</h4>
-      <img src="https://vercel.app" alt="Backend & Systems Stack" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Node.js" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Express" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Go" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="PostgreSQL" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Redis" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Docker" />
     </td>
     <td width="33%" valign="top">
       <h4>Cloud & Tools</h4>
-      <img src="https://vercel.app" alt="Cloud & Tools Stack" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Supabase" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Cloudflare" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Vercel" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Git" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="GitHub" />
+      <img src="https://jsdelivr.net" width="32" height="32" alt="Linux" />
     </td>
   </tr>
 </table>
