@@ -5,38 +5,87 @@
 </div>
 
 <p align="center">
-  <a href="https://adeniyitemilade-nine.vercel.app/">Portfolio</a> ·
-  <a href="https://github.com/NemoCode-3011">GitHub</a>
+  <a href="https://vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com">LinkedIn</a> ·
+  <a href="https://github.com">GitHub</a>
 </p>
 
-I'm interested in the places where technology and creativity meet — digital experiences with a point of view, stories worth exploring, and products that feel considered from the first interaction to the last detail. I build across the stack, follow my curiosity, and like making ideas real.
+<br/>
 
-## Selected work
+I like building interactive things on the web—the kind with good motion, sharp graphics, and actual atmosphere. I studied Sociology before I wrote code, which mostly means I think a lot about how people explore, play, and interact with digital spaces before I start wiring up databases.
 
-**[REKÒ](https://github.com/NemoCode-3011/Rekonekt-Frontend)**  
-A digital museum exploring Nigerian history, culture, and the stories shaping the present.  
-[Frontend](https://github.com/NemoCode-3011/Rekonekt-Frontend) · [Backend](https://github.com/NemoCode-3011/Rekonekt-Backend)
-
-**[The Dystopian Architect](https://github.com/NemoCode-3011/thedystopianarchitect)**  
-A personal publishing platform built around an editorial reading experience.  
-[Frontend](https://github.com/NemoCode-3011/thedystopianarchitect) · [Backend](https://github.com/NemoCode-3011/TDA-BACKEND)
-
-**[BlackVault](https://github.com/NemoCode-3011/BlackVault-v1)**  
-An atmospheric, story-driven web experience with authentication and interactive elements.  
-[Repository](https://github.com/NemoCode-3011/BlackVault-v1) · [Live demo](https://black-vault-arg.vercel.app/)
-
-**[Arcadia Homes](https://github.com/NemoCode-3011/arcadia-homes)**  
-A real-estate interface for discovering properties and exploring an admin experience.  
-[Repository](https://github.com/NemoCode-3011/arcadia-homes) · [Live demo](https://arcadia-homes-wvni.vercel.app/)
-
-## My toolkit
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,gsap" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, GSAP" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go,postgres,redis,docker,git,github" alt="Node.js, Express, Go, PostgreSQL, Redis, Docker, Git, GitHub" />
-</p>
+When I’m not shipping code, I’m usually deep into a game, dissecting UI/graphics, or testing weird ideas just to see if they work.
 
 ---
 
-<p align="center"><em>Curious by nature. Making things on purpose.</em></p>
+## 🎮 Selected Quests (Projects)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Rekonekt-Frontend">REKÒ</a></h3>
+      <p>An interactive digital museum exploring Nigerian history and culture—built with 3D artifacts, motion, and connected storytelling.</p>
+      <p>
+        <img src="https://skillicons.dev" height="26" alt="REKÒ Stack" />
+      </p>
+      <a href="https://github.com/Rekonekt-Frontend">Frontend</a> · 
+      <a href="https://github.com/Rekonekt-Backend">Backend</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/BlackVault-v1">BlackVault</a></h3>
+      <p>A security-themed alternate reality game (ARG) web experience with staged progression, mini-games, sound design, and auth.</p>
+      <p>
+        <img src="https://skillicons.dev" height="26" alt="BlackVault Stack" />
+      </p>
+      <a href="https://github.com/BlackVault-v1">Repository</a> · 
+      <a href="https://vercel.app">Play / Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/thedystopianarchitect">The Dystopian Architect</a></h3>
+      <p>A custom full-stack publishing platform and personal corner of the internet built for clean, distraction-free reading.</p>
+      <p>
+        <img src="https://skillicons.dev" height="26" alt="The Dystopian Architect Stack" />
+      </p>
+      <a href="https://github.com/thedystopianarchitect">Frontend</a> · 
+      <a href="https://github.com/TDA-BACKEND">Backend</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/arcadia-homes">Arcadia Homes</a></h3>
+      <p>A sleek property discovery interface paired with a role-based admin dashboard.</p>
+      <p>
+        <img src="https://skillicons.dev" height="26" alt="Arcadia Homes Stack" />
+      </p>
+      <a href="https://github.com/arcadia-homes">Repository</a> · 
+      <a href="https://vercel.app">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Loadout (Tech Stack)
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Graphics & Interface</h4>
+      <img src="https://skillicons.dev" alt="Frontend & Graphics Stack" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>Backend & Systems</h4>
+      <img src="https://skillicons.dev" alt="Backend & Systems Stack" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>Cloud & Tools</h4>
+      <img src="https://skillicons.dev" alt="Cloud & Tools Stack" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://demolab.com." alt="Typing SVG" />
+</p>
